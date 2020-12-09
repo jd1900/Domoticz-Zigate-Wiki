@@ -33,6 +33,7 @@ This is based on a RPI3B+ which provides 2 network interfaces ( wired rj45 and w
 The full URL will be like:
 
     * `http://fw.netatmo.net/getfirmware/000474230eec/1584836191/zwG-s1Xxva2b0Ujdb_u-ky_m-oHCozEx3gOHWoULEqM/NLD-6.fw`
+    It seems that this has changed, as error messages from Legrand show that it seems to need another parameter. 
     
     Where 
     * `http://fw.netatmo.net/getfirmware/`is the base URL to access firmware on netatmo cloud
